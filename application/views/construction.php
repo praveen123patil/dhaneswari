@@ -117,7 +117,7 @@ function datas(n,data1)
 {
   $("#tabdata"+n).html("");
   data2=data1.split("#@#");
- alert(data2.length);
+// alert(data2.length);
  for(i=0;i<=data2.length;i++)
  {
   data=data2[i].split(":");
