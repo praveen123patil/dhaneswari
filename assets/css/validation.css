@@ -1,0 +1,18 @@
+.text-red
+{
+	color:red;
+	font-weight: bold;
+}
+
+.text-red1
+{
+	color:red;
+	font-weight: bold;
+	background-color:yellow;
+}
+
+.text-blue
+{
+	color:blue;
+	font-weight: bold;
+}
